@@ -1,0 +1,11 @@
+.line {
+    text-decoration:underline;
+   
+}
+.home, .line, .top, .now {
+margin-right: 200px;
+font-size: 20px;
+
+
+}
+
